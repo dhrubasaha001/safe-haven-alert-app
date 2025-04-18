@@ -28,6 +28,13 @@ export default {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
 				},
+                // Custom feminine and safe color palette
+                sos: {
+                    pink: '#FFDEE2',
+                    purple: '#E5DEFF',
+                    blue: '#D3E4FD',
+                    peach: '#FDE1D3',
+                },
 				secondary: {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
